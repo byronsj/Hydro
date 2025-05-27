@@ -1,4 +1,4 @@
-# Hydroponic formulas
+# Hydroponic Formula
 
 ## Starting Solutions
 
@@ -9,7 +9,7 @@
   * Borax 3g
   * Manganese Sulphate 1g
   * Zinc Sulphate 0.3g
-  * Ammonium Molybdate
+  * Ammonium Molybdate 0.4g (*I'v never used, couldn't source*)
   * Copper Sulphate 0.1g
   * Table Salt 0.1g
 
