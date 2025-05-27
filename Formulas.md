@@ -78,14 +78,6 @@
   * Calcium (Ca): 152.63 ppm (Optimal Range: 150 - 200)
   * Magnesium (Mg): 39.44 ppm (Optimal Range: 40 - 70)
   * Sulphur (S): 107.22 ppm (Optimal Range: 30 - 60, tolerates higher)
-* Micro nutrients
-  * Iron (Fe): 1.63 ppm (Optimal Range: 1.0 - 3.0)
-  * Boron (B): 0.34 ppm (Optimal Range: 0.2 - 0.5)
-  * Manganese (Mn): 0.32 ppm (Optimal Range: 0.2 - 0.5)
-  * Zinc (Zn): 0.07 ppm (Optimal Range: 0.05 - 0.1)
-  * Copper (Cu): 0.03 ppm (Optimal Range: 0.02 - 0.05)
-  * Chlorine (Cl): 0.06 ppm (Optimal Range: 0.05 - 0.2)
-  * Sodium (Na): 0.40 ppm (Optimal Range: < 50)
 
 ## Leafy Green Formula 
 * Solution #1: 1 ml/L
